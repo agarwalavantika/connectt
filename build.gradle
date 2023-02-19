@@ -1,0 +1,31 @@
+buildscript {
+    repositories {
+        // Make sure that you have the following two repositories
+        google()  // Google's Maven repository
+        maven { url 'https://maven.fabric.io/public' }
+        maven { url 'https://jitpack.io' }
+        mavenCentral()
+        maven { url 'https://maven.fabric.io/public' }
+        maven {  url "https://maven.google.com"  }
+    }
+    dependencies {
+        // Add the dependency for the Google services Gradle plugin
+        classpath 'com.android.tools.build:gradle:4.2.2'
+        classpath 'com.google.gms:google-services:4.3.3'
+
+    }
+}
+allprojects {
+    repositories {
+        maven {
+            url "https://github.com/jitsi/jitsi-maven-repository/raw/master/releases"
+        }
+        google()
+        mavenCentral()
+        maven { url 'https://www.jitpack.io' }
+    }
+}
+task clean(type:Delete)
+{
+    delete rootProject.buildDir
+}
