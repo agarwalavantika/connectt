@@ -11,7 +11,7 @@ FEATURES AND INTERFACES
 2. Home page:
    - Has a login button to login in an already existing account.
    
-    <img width="545" alt="2" src="https://user-images.githubusercontent.com/94929750/220593180-836998f0-f409-4ebd-8490-26c2285f4681.png">
+   <img width="545" alt="2" src="https://user-images.githubusercontent.com/94929750/220593180-836998f0-f409-4ebd-8490-26c2285f4681.png">
   
   - Has app cards at bottom with different features that shows call history, has settings option and a logout button.
     
