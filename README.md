@@ -45,6 +45,9 @@ FEATURES AND INTERFACES
      <img width="545" alt="Screenshot_20230222_151550" src="https://user-images.githubusercontent.com/94929750/220587853-0efe8bba-4b20-4a1d-a4b7-ce0a903f1785.png">
      
    8. Multiple Options:
+
+      <img width="557" alt="7" src="https://user-images.githubusercontent.com/94929750/220590888-004730ab-6a36-48d0-8e93-1a0f6c9ce61b.png">
+
    
      - Inviting someone - multiple users can join the call with the help of a unique code generated.
      
@@ -52,7 +55,7 @@ FEATURES AND INTERFACES
      
      - Screeen sharing - users can share the content on their screen for a better presentation.
      
-       <img width="557" alt="7" src="https://user-images.githubusercontent.com/94929750/220590888-004730ab-6a36-48d0-8e93-1a0f6c9ce61b.png">
+       
 
      
     
