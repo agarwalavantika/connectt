@@ -6,7 +6,7 @@ FEATURES AND INTERFACES
 1. Landing page:
    Seamless landing page with Create an account button for user signup using Firebase Authentication.
    
-   ![create acc](https://user-images.githubusercontent.com/94929750/220527507-6e39ead5-3287-483a-ae22-e4bcbe54ed48.png)
+   <img width="452" alt="app 1" src="https://user-images.githubusercontent.com/94929750/220541501-b3bcbf94-3f4b-4e87-96f9-560ddce956b2.png">
 
 2. Home page:
    - Has a login button to login in an already existing account.
