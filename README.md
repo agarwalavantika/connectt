@@ -19,7 +19,8 @@ FEATURES AND INTERFACES
     
  3. Firebase authentication:
     - Has firebase authentication that shows the email of the created accounts, date on which it is created, and user id.
-    
+
+     ![Screenshot (446)](https://user-images.githubusercontent.com/94929750/220589626-0d164919-191a-421b-8060-c9c2e47a0ae1.png)
      
  4. Firestore database:
     - Database that stores the user's full name, email and password.
