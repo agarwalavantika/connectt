@@ -11,11 +11,11 @@ FEATURES AND INTERFACES
 2. Home page:
    - Has a login button to login in an already existing account.
    
-  <img width="538" alt="Screenshot_20230222_144204" src="https://user-images.githubusercontent.com/94929750/220588495-f98db3ef-0abd-423c-8256-04e79cb196d7.png">
+    <img width="545" alt="2" src="https://user-images.githubusercontent.com/94929750/220593180-836998f0-f409-4ebd-8490-26c2285f4681.png">
   
   - Has app cards at bottom with different features that shows call history, has settings option and a logout button.
     
-   <img width="550" alt="Screenshot_20230222_145302" src="https://user-images.githubusercontent.com/94929750/220588725-9ac7057a-6f13-458b-8579-34dba147f141.png">
+    <img width="550" alt="3" src="https://user-images.githubusercontent.com/94929750/220593813-53b8be40-bc2e-48d6-805e-14974a74f6ca.png">
     
  3. Firebase authentication:
     - Has firebase authentication that shows the email of the created accounts, date on which it is created, and user id.
