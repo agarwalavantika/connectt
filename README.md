@@ -46,7 +46,9 @@ FEATURES AND INTERFACES
    8. Multiple Options:
    
      - Inviting someone - multiple users can join the call with the help of a unique code generated.
+     
      - Sharing a youtube video - users have the option to live stream a youtube video while they are on the call.
+     
      - Screeen sharing - users can share the content on their screen for a better presentation.
      
        ![Screenshot (442)](https://user-images.githubusercontent.com/94929750/220539794-2f17f54a-ee73-4899-96df-21227130fee8.png)
