@@ -11,11 +11,11 @@ FEATURES AND INTERFACES
 2. Home page:
    - Has a login button to login in an already existing account.
    
-  ![login](https://user-images.githubusercontent.com/94929750/220527623-9fa2c301-eb3e-4e19-882a-7a237f3ecfdd.png)
+  <img width="538" alt="Screenshot_20230222_144204" src="https://user-images.githubusercontent.com/94929750/220588495-f98db3ef-0abd-423c-8256-04e79cb196d7.png">
   
   - Has app cards at bottom with different features that shows call history, has settings option and a logout button.
     
-    ![Screenshot_20230220_012221](https://user-images.githubusercontent.com/94929750/220528336-70036b22-035b-485d-bff6-5c2f93e30b9d.png)
+   <img width="550" alt="Screenshot_20230222_145302" src="https://user-images.githubusercontent.com/94929750/220588725-9ac7057a-6f13-458b-8579-34dba147f141.png">
     
  3. Firebase authentication:
     - Has firebase authentication that shows the email of the created accounts, date on which it is created, and user id.
@@ -39,9 +39,9 @@ FEATURES AND INTERFACES
   7. Video calling and persistent text chat:
     - Chat with your friends, family and peers before, during and after the meeting.
      
-     ![App-UI-shown-on-iOS-and-Android-apps-single-item-card](https://user-images.githubusercontent.com/94929750/220537541-a9913eb3-9e60-4e01-b983-4dd6a2343c73.jpg)
+     <img width="533" alt="Screenshot_20230222_152603" src="https://user-images.githubusercontent.com/94929750/220588340-90d77b08-2331-4d83-b339-6b2e6bb93bae.png">
      
-     ![Screenshot_20230220_151014](https://user-images.githubusercontent.com/94929750/220537892-0be8138e-7830-4bf7-a81a-5590e96b7d94.png) 
+     <img width="545" alt="Screenshot_20230222_151550" src="https://user-images.githubusercontent.com/94929750/220587853-0efe8bba-4b20-4a1d-a4b7-ce0a903f1785.png">
      
    8. Multiple Options:
    
