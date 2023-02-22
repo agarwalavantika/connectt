@@ -30,7 +30,7 @@ FEATURES AND INTERFACES
  5. Create Meeting:
     - Create a room and invite people to join by copying the meeting code.
      
-       ![Screenshot_20230220_012255](https://user-images.githubusercontent.com/94929750/220536381-ae6770a1-5c4c-4830-b23d-a16f4e74b4d7.png)
+       <img width="529" alt="4" src="https://user-images.githubusercontent.com/94929750/220591025-8be0eec1-2123-4665-9961-14e2384cee12.png">
        
   6. Join Meeting:
      - Enter the copied meeting code in a form and join the room with your loved ones.
@@ -52,7 +52,7 @@ FEATURES AND INTERFACES
      
      - Screeen sharing - users can share the content on their screen for a better presentation.
      
-       ![Screenshot (442)](https://user-images.githubusercontent.com/94929750/220539794-2f17f54a-ee73-4899-96df-21227130fee8.png)
+       <img width="557" alt="7" src="https://user-images.githubusercontent.com/94929750/220590888-004730ab-6a36-48d0-8e93-1a0f6c9ce61b.png">
 
      
     
