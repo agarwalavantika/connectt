@@ -34,7 +34,7 @@ FEATURES AND INTERFACES
   6. Join Meeting:
      - Enter the copied meeting code in a form and join the room with your loved ones.
        
-       ![Screenshot (441)](https://user-images.githubusercontent.com/94929750/220536794-789c7931-cbaf-4750-b8c2-3738dcd95195.png)
+       <img width="529" alt="Screenshot_20230222_145946" src="https://user-images.githubusercontent.com/94929750/220587575-81e74529-5353-491f-87cb-b82fb0f0a1e7.png">
    
   7. Video calling and persistent text chat:
     - Chat with your friends, family and peers before, during and after the meeting.
